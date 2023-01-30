@@ -16,7 +16,7 @@ enableEmoji = true
   # home page profile
   avatar = 'https://2.gravatar.com/avatar/8a130792c2da942bce72f43c72797e4e?s=1000'                 # gravatar email or image url
   name = 'John Orcutt'
-  bio = 'System & Software Engineer building platforms for modeling and distributing earth systems data.'
+  bio = 'System & Software Engineer building platforms building platforms for weather and climate modeling.'
 
   # misc
   disableHLJS = true                        # disable highlight.js
