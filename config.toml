@@ -1,4 +1,4 @@
-baseURL = 'http://johnorcutt.github.io/'
+baseURL = 'https://johnorcutt.github.io/'
 languageCode = 'en-us'
 title = 'Orcutt'
 theme = 'paper'
